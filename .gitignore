@@ -1,0 +1,14 @@
+*.nii
+*.nii.gz
+__pycache__/
+*.pyc
+.DS_Store
+ghazal-env/
+*.nii
+*.pt
+*.pth
+
+
+
+
+
